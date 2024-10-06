@@ -20,3 +20,7 @@
 18. โปรแกรมหาผลรวมของตัวเลขทุกหลักในจำนวนที่ผู้ใช้ป้อนเข้ามา จนกว่าจะเหลือเพียงหลักเดียว https://github.com/krujeen/ocom/issues/1
 19. โปรแกรมสร้างตารางจัตุรัสกล (Magic Square) ขนาด n x n (n เป็นเลขคี่) โดยรับค่า n จากผู้ใช้
 20. โปรแกรมหาจำนวนเฉพาะตัวถัดไปจากจำนวนที่ผู้ใช้ป้อนเข้ามา https://github.com/krujeen/ocom/issues/4
+
+
+List of C++ Programs (Pattern)
+1. ดาวมหัศจรรย์แห่งเทศกาลแสงดาว  https://github.com/krujeen/ocom/issues/5
