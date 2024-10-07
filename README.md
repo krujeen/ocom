@@ -1,3 +1,8 @@
+# List of C++ Programs (if)
+1. c
+2. c
+
+
 # List of C++ Programs  (Loop)
 
 1. โปรแกรมสร้างตารางสูตรคูณ n x n โดยรับค่า n จากผู้ใช้
@@ -24,3 +29,16 @@
 
 # List of C++ Programs (Pattern)
 1. ดาวมหัศจรรย์แห่งเทศกาลแสงดาว  https://github.com/krujeen/ocom/issues/5
+2. c
+3. c
+4. c
+5. c
+
+
+
+
+# List of C++ Programs (Array)
+1. c
+2. c
+3. c
+4. c
